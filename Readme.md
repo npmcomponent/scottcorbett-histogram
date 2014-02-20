@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [scottcorbett/histogram](http://github.com/scottcorbett/histogram). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/scottcorbett-histogram`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # histogram
 
   A CommonJS module written for component(1) to create image histograms from images or canvas objects. [Example](http://hexhour.com/toys/histogram/)

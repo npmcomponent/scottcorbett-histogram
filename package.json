@@ -1,0 +1,11 @@
+{
+  "name": "scottcorbett-histogram",
+  "description": "create image histograms",
+  "version": "0.0.1",
+  "keywords": [
+    "canvas",
+    "histogram"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
